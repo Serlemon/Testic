@@ -1,0 +1,97 @@
+Igrica jest.
+
+ - Level
+
+     - Mapa Dizajn simpel
+     - Sve na 0 0 0 
+     - Spawn i Waypoint odredjeni
+     - Finish radi finish stvari
+     - Grid
+
+ - Kamera
+   
+     - RTS style
+     - Arrow Movement
+     - Mouse Movement
+     - Zoom
+     - Camera Lock on Map
+
+ - Enemy
+
+     - Basic movement
+     - Animacija
+     - Healh sistem
+     - Oduzimanje zivota
+
+ - Player
+
+     - Player Commander desni klik
+     - Player Inventory Tower Placement
+     - Cant die
+
+ - Turreti
+
+     - Turret Placement
+        - Grid Placement
+        - Maze Potential
+     - Turret Health
+     - Turret Ranga & Shooting
+     - Turret Selection
+
+ - UI
+
+     - Basic UI Gold + Heatlh 
+     - + Showing Tower Placement
+
+ - Advanced Level 
+
+     - Start Stop Wave System / Time before wave
+     - Better Map Design
+     - Player Cant move on the track but can move on walls during wave
+     - 
+
+ - Advanced Enemy
+
+     - Wave System
+     - Enemy attack
+     - Enemy selection
+
+ - Advanced Tower
+
+     - Tower Upgrades
+     - Vise njih 
+     - Debaf i curse
+     - aoe
+
+ - World 
+  
+     - just making the map more pretty
+
+ - Advanced player
+
+     - Class sistem
+         - 3. Classes
+               - Elf - Nature / Longrange / Poisons / Anti Air 
+               - Dwarf - Mech / Short Range / High-Health Towers / High Damage / Slow Firing / ALOT of AOE
+               - Orc - Blood / Mostly Melee / Fast attacking / cheap / low-health / 
+               
+                 - ELF -
+                    
+                    - Adding class specific towers ( 3 ) 
+                    - Adding Player Model 
+                
+                 - ORC - 
+ 
+                    - Adding class specific towers ( 3 )
+                    - Adding Player Model      
+
+                 - DWARF - 
+    
+                    - Adding class specific towers ( 3 )
+                    - Adding Player Model
+
+ - Advanced World 
+
+      - Map desing
+      - Custom Models for all clasess + towers
+      - Enemy Models
